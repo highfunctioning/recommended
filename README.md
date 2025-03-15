@@ -1,5 +1,7 @@
 Applied Network Security Monitoring: Collection, Detection, and Analysis" by Chris Sanders and Jason Smith
 
+https://www.google.ca/books/edition/Applied_Network_Security_Monitoring/TTIDAQAAQBAJ?hl=en&gbpv=1&pg=PR3&printsec=frontcover
+
 The Threat Intelligence Handbook" by Recorded Future
 Focus: A practical guide to understanding and implementing threat intelligence in a SOC environment
 
